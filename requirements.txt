@@ -1,0 +1,4 @@
+beautifulsoup4==4.11.2
+flair==0.11.3
+googlesearch_python==1.1.0
+requests==2.25.1
